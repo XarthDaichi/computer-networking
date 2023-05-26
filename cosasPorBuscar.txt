@@ -1,0 +1,23 @@
+Latencia
+QoS
+Multitasking, relacionado a redes
+switch hace reenvio de tramas/también los routers, estos tienen cpu (viejo)
+switch solo tiene el hardware para hacer reenvio, la parte que le dice como hacerlo está en otra parte: plano de control (nuevo)
+Ansible
+Terraform
+Como automatizar instalación de programas
+Git como repositorio de VMs
+telemetría
+observabilidad: ELK, Prometheus
+IBN (Intent Based Networking) es como SDN, usando declarative policies en vez del imperativo (en, conf t, etc..) donde usando IA le implementa la red 
+Aprender IA
+
+DNA para IBN
+
+Machine Learning, regresión lineal, buscar algoritmos de IA
+
+CyOps, DevOps (programación (Python, bash, Java)), Networking (CCNA), Cloud (AWS, Azure(Microsoft learn, AZ-900)), Jenkins (herramientas de CI/CD), Git
+
+En la parte de DevOps: aprender primero los principios de programación, networking, cloud, después herramientas de CI/CD y telemetría
+
+	Security: codeRed o Ec-council
