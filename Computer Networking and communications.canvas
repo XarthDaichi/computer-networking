@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"5ae337aff90ea872","x":-748,"y":-1263,"width":400,"height":400,"type":"file","file":"Computer Networking/Switches.md"},
+		{"type":"file","file":"Switches.md","id":"5ae337aff90ea872","x":-748,"y":-1263,"width":400,"height":400},
 		{"type":"text","text":"Computer Networking and communications","id":"ea1a6deb01cd469c","x":-486,"y":-702,"width":250,"height":60}
 	],
 	"edges":[

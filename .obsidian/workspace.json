@@ -4,15 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "d5d1b86ac3d5cc9c",
+        "id": "e8680e9930461871",
         "type": "tabs",
         "children": [
           {
-            "id": "7dc419143f380a47",
+            "id": "7dd7fc020b32cfd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "034449eb9b65d5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5096e069c37f2280",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Computer Networking and communications.canvas",
+                "viewState": {
+                  "x": -493.1625000000001,
+                  "y": -861.0126159667964,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -138,6 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dc419143f380a47",
-  "lastOpenFiles": []
+  "active": "7dd7fc020b32cfd5",
+  "lastOpenFiles": [
+    "Computer Networking and communications.canvas",
+    "Switches.md",
+    "Untitled.md"
+  ]
 }
